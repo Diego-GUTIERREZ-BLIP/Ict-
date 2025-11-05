@@ -10,7 +10,7 @@ A personal portfolio for ict class
 </head>
 <body><body>
 <header>
-<h1>Your Name or Fan Page Title</h1>
+<h1>Diego Gutierrez</h1>
 </header>
 <nav>
 <!-- Navigation links will go here -->
