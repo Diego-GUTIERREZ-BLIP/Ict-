@@ -5,7 +5,7 @@ A personal portfolio for ict class
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Your Name - Portfolio</title>
+
 <!-- <link rel="stylesheet" href="styles.css"> -->
 </head>
 <body><body>
